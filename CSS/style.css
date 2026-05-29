@@ -331,20 +331,20 @@ h3 {
     }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 400px) {
     .nav {
         display: none;
     }
 
     .container {
-        max-width: 320px;
+        max-width: 400px;
     }
     body {
         overflow-x: none;
     }
 
     .my_img {
-        width: 320px;
+        width: 400px;
     }
 
     .works_container {
@@ -387,7 +387,7 @@ h3 {
     }
 
     .footer {
-        max-width: 320px;
+        width: 400px;
         padding: 6px;
     }
 }
